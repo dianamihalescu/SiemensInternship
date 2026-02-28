@@ -1,7 +1,10 @@
 # Siemens Internship – Order Management System (C# / .NET)
 
 Console application built in **C#** using **.NET** (`dotnet`) for managing customer orders and applying a discount rule.
+## Problem 1 – Diagrams
 
+- Class Diagram (UML): docs/Problem1_ClassDiagram.png
+- ER Diagram (Database): docs/Problem1_ERD.png
 ## Requirements covered (Problem 2)
 
 ### 2.1 Create the C# classes
