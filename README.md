@@ -5,7 +5,7 @@ Console application built in **C#** using **.NET** (`dotnet`) for managing custo
 
 - Class Diagram (UML): docs/Problem1_ClassDiagram.png
 - ER Diagram (Database): docs/Problem1_ERD.png
-## Requirements covered (Problem 2)
+## Problem 2 - Requirements covered
 
 ### 2.1 Create the C# classes
 - **Customer**: `Name`, `Email`
